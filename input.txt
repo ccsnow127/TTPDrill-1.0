@@ -1,0 +1,6 @@
+The "Authorization.exe" malware sample was created with version V.0.5 of this RAT. The njRAT application was developed with VB.NET (Visual Basic .NET).
+When the malware connects to the Command & Control (CnC) server, the attacker is able to perform the following actions from the njRAT CnC server GUI:
+- Open a 'File Manager' window to manipulate files o This window allows the attacker to Upload & Download, Run, Delete, Edit, Rename, Copy, Cut, Paste, and Empty files. o The window also allows the attacks to create new folders in the Victim system 
+- Open a 'Run File' window o This window allows the attacker to upload a file, or provide a link to a file to run in the Victim system 
+- Open a 'Remote Desktop' window o When selected, it opens a live window of the Victim's user desktop 
+- Open a 'Remote Cam' window o This window allows the attacker to obtain access to the Victim's system camera to see the Victim user
