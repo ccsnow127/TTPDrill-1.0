@@ -12,6 +12,11 @@ TTPDrill focuses on developing automated and context-aware analytics of cyber th
 * download stanford-corenlp parser from
 * https://downloads.cs.stanford.edu/nlp/software/stanford-corenlp-full-2015-12-09.zip
 
+# Usage 
+
+* insert the report text into input.txt
+* run main.py
+
 # Notice
 Copyright 2020 CyberDNA Center, UNC Charlotte
 
